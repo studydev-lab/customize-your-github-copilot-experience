@@ -1,22 +1,22 @@
-# Project Description
+# 프로젝트 설명
 
-This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
+이 프로젝트는 학생들과 숙제 과제 및 코딩 실습을 공유하기 위한 교육용 웹사이트입니다. 학생들은 포털에서 과제를 직접 찾아보고, 열람하고, 다운로드할 수 있습니다.
 
-## Project Structure
+## 프로젝트 구조
 
-- [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
-- [`templates/`](../templates/) Reusable templates for new content
-- [`assets/`](../assets/) Contains the website assets including CSS, JavaScript, images, and configuration files
-- [`index.html`](../index.html) The main website page that serves as a static portal for browsing and viewing assignments. Content is configurable via [`config.json`](../config.json) file to dynamically generate assignment lists and details.
+- [`assignments/`](../assignments/) 각 숙제 과제는 일관된 구조를 갖춘 하위 폴더에 저장됩니다.
+- [`templates/`](../templates/) 새 콘텐츠 작성을 위한 재사용 가능한 템플릿
+- [`assets/`](../assets/) CSS, JavaScript, 이미지, 설정 파일 등 웹사이트 자산을 포함합니다.
+- [`index.html`](../index.html) 과제를 탐색하고 열람할 수 있는 정적 포털의 메인 페이지입니다. 콘텐츠는 [`config.json`](../config.json) 파일을 통해 동적으로 과제 목록과 세부 정보를 생성하도록 설정할 수 있습니다.
 
-## Project Guidelines
+## 프로젝트 가이드라인
 
-- Maintain consistent styling across all pages
-- Keep file and folder names descriptive and organized
+- 모든 페이지에서 일관된 스타일을 유지합니다.
+- 파일 및 폴더 이름은 설명적이고 체계적으로 유지합니다.
 
-## Educational Standards
+## 교육 기준
 
-When generating content for this project:
+이 프로젝트용 콘텐츠를 생성할 때:
 
-- **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
-- **Student-friendly**: Use clear, encouraging language that motivates students
+- **학습 중심**: 모든 콘텐츠는 명확한 학습 목표와 적절한 난이도를 바탕으로 설계되어야 합니다.
+- **학생 친화적**: 학생들의 동기를 높일 수 있도록 명확하고 격려하는 언어를 사용합니다.
