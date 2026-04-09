@@ -58,6 +58,90 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file I/O, and text manipulation in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Creating RESTful endpoints with FastAPI, Pydantic validation, and CRUD operations.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Data Structures in Python",
+      "description": "Working with lists, dictionaries, sets, and tuples in practical Python tasks.",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Creating charts and graphs in Python using matplotlib or plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "unit-testing-with-pytest",
+      "title": "Unit Testing with pytest",
+      "description": "Writing effective unit tests, using fixtures, parametrization, and error handling verification.",
+      "path": "assignments/unit-testing-with-pytest",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics-with-python",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy.",
+      "path": "assignments/statistics-with-python",
+      "dueDate": "2026-04-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
